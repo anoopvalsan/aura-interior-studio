@@ -21,3 +21,7 @@ The site presents residential and commercial interior design, space planning, ma
 ## Photography
 
 Illustrative stock photographs from Unsplash: photo-1600210492486-724fe5c67fb0, photo-1600607687939-ce8a6c25118c, photo-1497366754035-f200968a6e72. Not photographs of actual Aura projects.
+
+## Gallery and identity update
+
+Poppins typography throughout, a thin wordmark with an architectural corner detail, eight inspiration images split evenly across Residential and Commercial, category-aware image viewing with arrow keys and swipe navigation. Additional Unsplash references: photo-1611892440504-42a792e24d32, photo-1556912172-45b7abe8b7e1, photo-1497366811353-6870744d04b2, photo-1497366412874-3415097a27e7, photo-1524758631624-e2822e304c36.
