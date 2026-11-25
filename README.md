@@ -1,21 +1,23 @@
 # Aura Interior Studio
 
-A responsive yoga and mindfulness website inspired by the composition and motion of hiliteinteriors.com. Built with HTML, CSS and JavaScript; no build step.
+A responsive interior design company website inspired by the composition and motion of hiliteinteriors.com. Built with HTML, CSS and JavaScript; no build step.
 
 ## Preview
 
-Run `python3 -m http.server 4173` in this folder, then open http://localhost:4173.
+Run `python3 -m http.server 4173` in this folder.
 
 ## Hosting
 
-GitHub Pages: deploy the `main` branch, root folder. Custom domain: `interior.zedqhub.com`. DNS: CNAME `interior` → `anoopvalsan.github.io` (DNS only).
+GitHub Pages deploys the `main` branch, root folder. Custom domain: interior.zedqhub.com. DNS: CNAME interior to anoopvalsan.github.io.
 
-## Interactions
+## Experience
 
-Drag/swipe or use arrow controls in the hero. Keyboard arrow navigation is supported. Includes a navigation overlay, custom pointer, parallax, scroll reveals, practice filtering, accessible native dialogs and reduced-motion support.
+Draggable hero carousel with keyboard and touch controls, custom cursor, animated navigation overlay, parallax imagery, scroll reveals, residential/commercial filters, interior inspiration dialogs, and reduced-motion support.
 
-The enquiry form prepares copyable text locally; no details are sent or stored. Replace with an approved booking/contact integration when studio contact details are confirmed. Practice descriptions are proposed website copy; no class schedule, address, instructors, testimonials or performance claims are asserted.
+## Content
 
-## Images
+The site presents residential and commercial interior design, space planning, materials, furniture and styling. Images are clearly identified as stock inspiration references, not completed Aura projects. Business contact details, portfolio credits and service claims should be confirmed by the studio. The enquiry form prepares copyable text locally; it does not send or store details.
 
-Stock photography from Unsplash, downloaded from images.unsplash.com: photo-1545389336-cf090694435e, photo-1506126613408-eca07ce68773, photo-1518611012118-696072aa579a. These are illustrative images, not photographs of the actual studio.
+## Photography
+
+Illustrative stock photographs from Unsplash: photo-1600210492486-724fe5c67fb0, photo-1600607687939-ce8a6c25118c, photo-1497366754035-f200968a6e72. Not photographs of actual Aura projects.
